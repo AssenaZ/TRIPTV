@@ -4,9 +4,7 @@ Playlist IPTV de chaînes de télévision turques au format M3U, compatible avec
 
 ## Playlist
 
-- **Fichier :** [tr.m3u](./tr.m3u)
-- **URL directe (RAW) :** https://raw.githubusercontent.com/AssenaZ/TRIPTV/main/tr.m3u
-- **URL GitHub Pages (après activation) :** https://assenaz.github.io/TRIPTV/tr.m3u
+- **URL (après activation) :** https://assenaz.github.io/TRIPTV/tr.m3u
 
 ## Utilisation
 
