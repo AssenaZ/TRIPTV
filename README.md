@@ -12,7 +12,7 @@ Copiez l'URL de la playlist et ajoutez-la dans votre lecteur IPTV compatible M3U
 
 ## Contenu
 
-Cette playlist contient **86 entrées de chaînes turques**, avec les métadonnées et catégories disponibles. Son contenu initial est une copie identique de [turquie_ibo_nouvelle.m3u](https://github.com/AssenaZ/Turkiye/blob/main/turquie_ibo_nouvelle.m3u).
+Cette playlist contient **86 entrées de chaînes turques**, avec les métadonnées et catégories disponibles.
 
 ## Disponibilité des flux
 
