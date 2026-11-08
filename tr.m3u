@@ -9,7 +9,7 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 http://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Ulusal",Star TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
-##EXTINF:-1 tvg-id="ShowTV.tr" group-title="Ulusal",Show TV
+#EXTINF:-1 tvg-id="ShowTV.tr" group-title="Ulusal",Show TV
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" group-title="Ulusal",Show TV (yedek)
 http://showtv.blutv.com/blutv_showtv_live/live.m3u8
